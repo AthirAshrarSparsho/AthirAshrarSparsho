@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @AthirAshrarSparsho
+- 👀 I’m interested in Information Technology
+- 🌱 I’m currently learning SQL and how to code mobile applications
+- 💞️ I’m looking to collaborate on creating a DB. Kindly email me for details.
+- 📫 How to reach me athirashrar@gmail.com
