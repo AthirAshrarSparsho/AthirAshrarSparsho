@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AthirAshrarSparsho
-- 👀 I’m interested in Information Technology
-- 🌱 I’m currently learning SQL and how to code mobile applications
-- 💞️ I’m looking to collaborate on creating a DB. Kindly email me for details.
-- 📫 How to reach me athirashrar@gmail.com
+- 👀 I’m an professional expert in Information Technology
+- 🌱 I specialize in SQL and provide IT consultations for tech startups.
+- 💞️ I’m looking to collaborate on creating a DB and mobile application. Kindly email me for details.
+- 📫 Reach me at athirashrar@gmail.com
