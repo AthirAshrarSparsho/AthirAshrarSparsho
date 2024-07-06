@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @AthirAshrarSparsho
-- 👀 I’m an professional expert in Information Technology
-- 🌱 I specialize in SQL and provide IT consultations for tech startups.
-- 💞️ I’m looking to collaborate on creating a DB and mobile application. Kindly email me for details.
+- 👀 I’m Management Consultant and expert in Information Technology.
+- 🌱 I specialize in AI Consulting and provide IT consultations for large scale technology companies.
 - 📫 Reach me at athirashrar@gmail.com
