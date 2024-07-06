@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @AthirAshrarSparsho
-- 👀 I’m Management Consultant and expert in Information Technology.
+- 👀 I’m a Management Consultant and expert in Information Technology.
 - 🌱 I specialize in AI Consulting and provide IT consultations for large scale technology companies.
 - 📫 Reach me at athirashrar@gmail.com
